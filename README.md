@@ -1,4 +1,4 @@
-# fenhe-sediment-dom-pmd-database
+# sediment-dom-pmd-database
 This repository contains a supplementary potential mass difference (PMD) annotation table used to support sediment DOM transformation analysis in an urbanized catchment.
 
 The table compiles frequently detected PMDs from broad location categories, including outlet-associated sediments and receiving sediments. PMDs were screened using the getrda() function of the PMD package. The repository is intended to provide transparency on the PMD values and literature references used for putative transformation interpretation.
